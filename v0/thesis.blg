@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: Dedication/dedication.aux
+A level-1 auxiliary file: Declaration/declaration.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Introduction/introduction.aux
+A level-1 auxiliary file: Chapter1/chapter1.aux
+A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
+A level-1 auxiliary file: Conclusion/conclusion.aux
+The style file: apalike.bst
+A level-1 auxiliary file: Appendix1/appendix1.aux
+A level-1 auxiliary file: Appendix2/appendix2.aux
+Reallocated field_info (elt_size=4) to 18640 items from 5000.
+Database file #1: References/exogeodynamics.bib
+Repeated entry---line 1088 of file References/exogeodynamics.bib
+ : @article{asimow_algorithmic_1998
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6044 of file References/exogeodynamics.bib
+ : @article{hinkel_comparison_2016
+ :                                ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 19496 of file References/exogeodynamics.bib
+ : @article{aizawa_global_2020
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 19537 of file References/exogeodynamics.bib
+ : @article{landais_multifractal_2019
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 19569 of file References/exogeodynamics.bib
+ : @article{lenardic_boot_2019
+ :                            ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Warning--empty publisher in cowan_mapping_2018
+Warning--can't use both author and editor fields in darwin_ponds
+Warning--empty publisher in Holland1984
+Warning--empty publisher in Holloway1981
+Warning--empty journal in lourenco_plutonicsquishy_2017
+Warning--empty journal in sharpe_thermal_1978
+You've used 620 entries,
+            1935 wiz_defined-function locations,
+            3600 strings with 132172 characters,
+and the built_in function-call counts, 282000 in all, are:
+= -- 26793
+> -- 14967
+< -- 292
++ -- 5526
+- -- 5273
+* -- 26338
+:= -- 49612
+add.period$ -- 1869
+call.type$ -- 620
+change.case$ -- 5720
+chr.to.int$ -- 607
+cite$ -- 626
+duplicate$ -- 8938
+empty$ -- 17732
+format.name$ -- 6219
+if$ -- 53593
+int.to.chr$ -- 14
+int.to.str$ -- 0
+missing$ -- 618
+newline$ -- 3096
+num.names$ -- 1880
+pop$ -- 4421
+preamble$ -- 1
+purify$ -- 5727
+quote$ -- 0
+skip$ -- 6788
+stack$ -- 0
+substring$ -- 19909
+swap$ -- 884
+text.length$ -- 29
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 3700
+warning$ -- 6
+while$ -- 2162
+width$ -- 0
+write$ -- 8040
+(There were 5 error messages)

@@ -1,0 +1,101 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$a$}]\begingroup thermodynamic activity (of given component)\nomeqref {5.0}\nompageref{121}
+  \item [{$a_{\rm rh}$}]\begingroup viscous temperature scaling coefficient\nomeqref {2.5}\nompageref{33}
+  \item [{$b$}]\begingroup temperature prefactor in dimensionless exponential viscosity law\nomeqref {2.1}\nompageref{28}
+  \item [{$c$}]\begingroup specific heat capacity [${\rm J\,kg^{-1}\,K^{-1}}$]\nomeqref {2.6}\nompageref{34}
+  \item [{$c_{\ce{H2O}}$}]\begingroup concentration by weight of water at water saturation (in mineral)\nomeqref {4.0}\nompageref{87}
+  \item [{$D$}]\begingroup ratio describing partitioning of a component (usually water) between two phases\nomeqref {4.0}\nompageref{87}
+  \item [{$d$}]\begingroup thickness of convecting layer in Rayleigh number calculation [m]\nomeqref {2.1}\nompageref{27}
+  \item [{$D_{\rm lid}$}]\begingroup stagnant lid thickness [m]\nomeqref {2.2}\nompageref{30}
+  \item [{$d^r$}]\begingroup grain size [mm] with exponent in Arrhenius viscosity law\nomeqref {3.1}\nompageref{63}
+  \item [{$E_a$}]\begingroup activation energy in Arrhenius viscosity law [$\rm{kJ\,mol^{-1}}$]\nomeqref {2.5}\nompageref{33}
+  \item [{$F$}]\begingroup melt fraction\nomeqref {3.2}\nompageref{64}
+  \item [{Fe$^{3+}/\Sigma$Fe}]\begingroup molar fraction of ferric iron to total iron in mantle oxides\nomeqref {5.0}\nompageref{121}
+  \item [{FeO$^*$}]\begingroup the sum of \ce{FeO} and \ce{Fe2O3}\nomeqref {5.0}\nompageref{121}
+  \item [{$f^{\rm Fe}_{\rm mantle}$}]\begingroup molar fraction of iron in mantle to total iron in bulk planet\nomeqref {4.0}\nompageref{87}
+  \item [{$f_{{\rm O}_2}$}]\begingroup oxygen fugacity\nomeqref {1.0}\nompageref{1}
+  \item [{$f_{\ce{H2O}}$}]\begingroup water fugacity\nomeqref {4.0}\nompageref{87}
+  \item [{$\Delta G^\circ$}]\begingroup Gibbs free energy of reaction [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}\nompageref{121}
+  \item [{$G$}]\begingroup gravitational constant [${\rm m^3 \, kg^{-1} \, s^{-2}}$]\nomeqref {4.0}\nompageref{87}
+  \item [{$g$}]\begingroup acceleration due to gravity [${\rm m\,s^{-2}}$]\nomeqref {2.1}\nompageref{27}
+  \item [{$\Delta H^{\rm 1 bar}$}]\begingroup reaction enthalpy at 1 bar [${\rm J \, mol^{-1}}$]\nomeqref {4.0}\nompageref{87}
+  \item [{$h$}]\begingroup height (of topography) [m]\nomeqref {2.3}\nompageref{32}
+  \item [{$h_{\rm peak}$}]\begingroup height (of topography), peak value [m]\nomeqref {2.18}\nompageref{39}
+  \item [{$h_{\rm rms}$}]\begingroup height (of topography), root-mean-square value [m]\nomeqref {2.3}\nompageref{32}
+  \item [{$K$}]\begingroup equilibrium constant (for given reaction)\nomeqref {5.0}\nompageref{121}
+  \item [{$k$}]\begingroup thermal conductivity [$\rm{W\,m^{-1}\,K^{-1}}$]\nomeqref {2.5}\nompageref{33}
+  \item [{$k$}]\begingroup wavenumber [m$^{-1}$]\nomeqref {2.1}\nompageref{29}
+  \item [{$l$}]\begingroup spherical harmonic degree\nomeqref {2.1}\nompageref{29}
+  \item [{log}]\begingroup always the base-10 logarithm\nomeqref {1.0}\nompageref{1}
+  \item [{$M_p$}]\begingroup planet mass [kg]\nomeqref {2.8}\nompageref{35}
+  \item [{Nu}]\begingroup Nusselt number\nomeqref {1.0}\nompageref{4}
+  \item [{$P$}]\begingroup pressure [Pa]\nomeqref {1.0}\nompageref{1}
+  \item [{$q$}]\begingroup heat flux per unit area [${\rm W\,m^{-2}}$]\nomeqref {2.6}\nompageref{34}
+  \item [{$q_{\rm rad}$}]\begingroup heat flux from radiogenic isotope decay [${\rm W\,kg^{-1}}$]\nomeqref {2.6}\nompageref{34}
+  \item [{$r$}]\begingroup radius [m]\nomeqref {4.0}\nompageref{87}
+  \item [{$R_{\rm lid}$}]\begingroup radius at base of stagnant lid [m]\nomeqref {2.15}\nompageref{38}
+  \item [{$R_p$}]\begingroup planet radius [m]\nomeqref {1.0}\nompageref{4}
+  \item [{Ra}]\begingroup thermal Rayleigh number\nomeqref {2.1}\nompageref{28}
+  \item [{Ra$_i$}]\begingroup thermal Rayleigh number at viscosity of $T_i$\nomeqref {2.4}\nompageref{32}
+  \item [{Ra$_{\rm crit}$}]\begingroup critical Rayleigh number for convection\nomeqref {2.5}\nompageref{33}
+  \item [{$R_b$}]\begingroup gas constant [$\rm{J\,mol^{-1}\,K^{-1}}$]\nomeqref {2.9}\nompageref{35}
+  \item [{$T$}]\begingroup temperature [K]\nomeqref {1.0}\nompageref{1}
+  \item [{$T_i$}]\begingroup interior temperature of convecting mantle [K]\nomeqref {2.2}\nompageref{31}
+  \item [{$T_p$}]\begingroup potential temperature [K]\nomeqref {4.0}\nompageref{87}
+  \item [{$T_{\rm lid}$}]\begingroup temperature at base of stagnant lid [K]\nomeqref {2.2}\nompageref{31}
+  \item [{$\Delta T_\nu$}]\begingroup viscous temperature scale [K]\nomeqref {2.15}\nompageref{38}
+  \item [{$\Delta T_{\rm rh}$}]\begingroup temperature contrast across upper thermal boundary layer of convecting mantle [K]\nomeqref {2.2}\nompageref{31}
+  \item [{$t$}]\begingroup time [s]\nomeqref {2.6}\nompageref{34}
+  \item [{$u$}]\begingroup velocity [${\rm m\,s^{-1}}$]\nomeqref {2.2}\nompageref{30}
+  \item [{Ur}]\begingroup Urey ratio\nomeqref {1.0}\nompageref{4}
+  \item [{$\Delta V^{\rm solid}$}]\begingroup reaction volume change of solids [${\rm m^3 \, mol^{-1}}$]\nomeqref {4.0}\nompageref{87}
+  \item [{$V_a$}]\begingroup activation volume in Arrhenius viscosity law [${\rm cm}^{3}\,{\rm mol}^{-1}$]\nomeqref {3.1}\nompageref{63}
+  \item [{$V_{\rm cap}$}]\begingroup ocean basin volume capacity [m$^{-3}$]\nomeqref {2.19}\nompageref{40}
+  \item [{$w$}]\begingroup water mass at water saturation (in planetary mantle) [kg]\nomeqref {4.0}\nompageref{87}
+  \item [{[X/H]}]\begingroup logarithmic stellar abundance ratio of an element X to hydrogen and normalised to the solar value.\nomeqref {4.0}\nompageref{87}
+  \item [{$Y$}]\begingroup crustal strength [Pa]\nomeqref {2.21}\nompageref{54}
+\nomgroup{G}
+  \item [{$\alpha$}]\begingroup thermal expansivity [K$^{-1}$]\nomeqref {2.1}\nompageref{27}
+  \item [{$\beta$}]\begingroup scaling exponent of surface heat flow with convective vigour\nomeqref {2.5}\nompageref{33}
+  \item [{$\delta_{\rm rh}$}]\begingroup thermal boundary layer thickness [m]\nomeqref {2.2}\nompageref{30}
+  \item [{$\Delta \eta$}]\begingroup dynamic viscosity ratio between top and bottom of convecting layer\nomeqref {2.1}\nompageref{28}
+  \item [{$\eta$}]\begingroup dynamic viscosity [${\rm Pa\,s}$]\nomeqref {2.1}\nompageref{27}
+  \item [{$\eta_0$}]\begingroup prefactor in Arrhenius viscosity law [$\rm{kJ\,mol^{-1}}$]\nomeqref {2.5}\nompageref{33}
+  \item [{$\phi^{\rm PSD}_h$}]\begingroup 1D power spectral density of topography [m$^3$]\nomeqref {2.1}\nompageref{29}
+  \item [{$\kappa$}]\begingroup thermal diffusivity [${\rm m^2\,s^{-1}}$]\nomeqref {2.1}\nompageref{27}
+  \item [{$\mu$}]\begingroup chemical potential [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}\nompageref{121}
+  \item [{$\rho$}]\begingroup density [${\rm kg\,m^{-3}}$]\nomeqref {2.1}\nompageref{27}
+  \item [{$\rho_w$}]\begingroup density of water [${\rm kg\,m}^{-3}$]\nomeqref {2.19}\nompageref{40}
+  \item [{$\sigma_{yy}$}]\begingroup vertical component of stress [Pa]\nomeqref {2.3}\nompageref{32}
+  \item [{$\tau$}]\begingroup planet age [Gyr]\nomeqref {2.5}\nompageref{33}
+  \item [{$\chi_{\rm extr}$}]\begingroup extrusive percentage of volcanism\nomeqref {3.13}\nompageref{67}
+  \item [{$\chi_{\rm CO_2}^{\mathrm{ini}}$}]\begingroup initial mantle CO$_2$ concentration by weight\nomeqref {3.14}\nompageref{67}
+  \item [{$\chi_{\rm H_2O}^{\mathrm{ini}}$}]\begingroup initial mantle H$_2$O concentration by weight\nomeqref {3.14}\nompageref{67}
+  \item [{$\chi_{\rm CO_2}^{\rm melt}$}]\begingroup melt CO$_2$ concentration by weight\nomeqref {3.7}\nompageref{65}
+  \item [{$\chi_{\rm H_2O}^{\rm melt}$}]\begingroup melt H$_2$O concentration by weight\nomeqref {3.7}\nompageref{65}
+  \item [{$\chi_{\rm rad}$}]\begingroup bulk planet U and Th budget relative to solar\nomeqref {2.5}\nompageref{33}
+\nomgroup{R}
+  \item [{$^\prime$}]\begingroup nondimensionalised value of parameter\nomeqref {2.2}\nompageref{30}
+  \item [{$c$}]\begingroup value at lower thermal boundary layer of convecting mantle\nomeqref {2.6}\nompageref{34}
+  \item [{$u$}]\begingroup value at upper thermal boundary layer of convecting mantle\nomeqref {2.6}\nompageref{34}
+\nomgroup{S}
+  \item [{$\oplus$}]\begingroup value for Earth\nomeqref {1.0}\nompageref{1}
+  \item [{$c$}]\begingroup value at planetary core\nomeqref {2.5}\nompageref{33}
+  \item [{$m$}]\begingroup value at planetary mantle\nomeqref {2.5}\nompageref{33}
+  \item [{$s$}]\begingroup value at planetary surface\nomeqref {2.16}\nompageref{38}
+\nomgroup{Z}
+  \item [{CMB}]\begingroup core-mantle boundary\nomeqref {4.0}\nompageref{87}
+  \item [{CMF}]\begingroup core mass fraction\nomeqref {2.8}\nompageref{35}
+  \item [{FMQ}]\begingroup fayalite-magnetite-quartz mineral redox buffer\nomeqref {1.0}\nompageref{1}
+  \item [{IW}]\begingroup iron-w\"ustite mineral redox buffer\nomeqref {1.0}\nompageref{1}
+  \item [{MTZ}]\begingroup mantle transition zone\nomeqref {4.0}\nompageref{87}
+  \item [{NAM}]\begingroup nominally anhydrous mineral\nomeqref {4.0}\nompageref{87}
+  \item [{OBM}]\begingroup olivine-bearing mantle\nomeqref {4.0}\nompageref{87}
+  \item [{OM}]\begingroup ocean mass, value for Earth's surface ocean [kg]\nomeqref {4.0}\nompageref{87}
+  \item [{LM}]\begingroup lower mantle\nomeqref {4.0}\nompageref{87}
+  \item [{UM}]\begingroup upper mantle\nomeqref {4.0}\nompageref{87}
+  \item [{VERITAS}]\begingroup Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy\nomeqref {6.0}\nompageref{148}
+
+\end{thenomenclature}

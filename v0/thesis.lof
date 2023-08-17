@@ -1,0 +1,49 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Schematic of the four modalities of planetary tectonic style.}}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Comparing Mg/Si ratios between FGKM stars and polluted white dwarfs, which provide independent constraints on rocky exoplanet bulk compositions.}}{16}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Test of the link between a planet's bulk density and host star iron abundance, quantifying the intrinsic bulk density scatter due to geochemistry.}}{20}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The four major endogenic sources of topography on a stagnant lid planet.}}{26}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A single time snapshot of dimensionless temperatures and surface dynamic topography, for chaotically time-dependent convection in the stagnant lid regime.}}{41}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Fitted scaling relationship for dimensionless RMS dynamic topography from 2D numerical convection simulations.}}{42}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Thermal evolutions sampled from the 1D model ensemble, as a function of time in Gyr.}}{43}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Variations of the RMS dynamic topography based on 1D thermal histories, as a function of select exoplanetary properties which might be constrained in the future.}}{45}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces The competition between the ocean basin capacity and the surface water budget with increasing planet mass.}}{46}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Various scalings for the maximum surface water capacity set by a planet's peak elevation.}}{54}{figure.caption.20}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Modelled evolution of the extrusive volumetric melt production rate for Archean Earth.}}{70}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Modelled evolution of melt volatile contents for \ch {H2O} and \ch {CO2} for Archean Earth.}}{72}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Modelled evolution of outgassing fluxes of \ch {CO2}, \ch {CO}, \ch {H2O}, and \ch {H2} for Archean Earth.}}{74}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Total cumulative outgassed masses of \ch {H2}, \ch {H2O}, \ch {CO}, and \ch {CO2}, as a function of $f_{\ce {O2}}$.}}{75}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Matrix of correlation coefficients between key parameters and outgassing fluxes.}}{76}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Distributions of cumulative outgassed masses of \ch {CO2}, \ch {CO}, \ch {H2O}, and \ch {H2}, over uniformly-random draws of unknown input parameters.}}{78}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The evolution of cumulative outgassed partial pressures for scenarios where Archean Earth's mantle oxygen fugacity increases steadily over time.}}{79}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Summary of outgassing fluxes of CO and CO$_2$.}}{82}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Analogous to Fig. \ref {fig:summary_C}, but for H-bearing species.}}{83}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Flowchart for the iterative planetary interior model.}}{96}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Profiles of mineral mode and water saturation content, for planets with an otherwise Earth-like composition but a varying molar Mg/Si ratio.}}{104}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Scaling of the upper mantle mass with the total planet mass.}}{106}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The total mass of water stored in hypothetical planetary mantles, shown as a function of planet mass.}}{107}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Water storage capacities, expressed as a mass fraction with respect to the total planet mass, of hypothetical planets having the compositions of planet-hosting stars from the Hypatia Catalog.}}{109}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces The dependence of mantle water storage capacity on the extent of core formation.}}{111}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces The temperature dependence of mantle water storage capacity.}}{116}{figure.caption.41}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Direct comparison of absolute $f_{\ce {O2}}$\tmspace +\thinmuskip {.1667em}between the pMELTS and Perple\_X models.}}{132}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Ternary diagram showing the distribution of \ce {Fe2O3} between its subsolidus host phases.}}{134}{figure.caption.43}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Cross plots of log($f_{\ce {O2}}$) with various compositional parameters from pMELTS.}}{135}{figure.caption.44}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Cross plots of log($f_{\ce {O2}}$) with various compositional parameters from Perple\_X.}}{135}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The distributions of mantle oxygen fugacities resulting from stellar chemical variability: dependence on \ce {Fe^{3+}}/$\Sigma $Fe.}}{138}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces The distributions of mantle oxygen fugacities resulting from stellar chemical variability: dependence on the extent of core formation.}}{139}{figure.caption.47}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The variability of volcanic gas mixing ratios, or molar concentrations, which are a direct result of the calculated variability of exoplanet mantle $f_{\ce {O2}}$.}}{141}{figure.caption.48}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Summary cartoon of water on rocky planets in the context of their mass and compositional diversity.}}{148}{figure.caption.49}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Dimensionless 1D power spectral densities of dynamic topography.}}{194}{figure.caption.51}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces An example of a synthetic topography map of an exoplanet, obtained by expanding a realistic power spectrum.}}{196}{figure.caption.52}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Cross plots of mantle water capacity with additional model parameters.}}{200}{figure.caption.54}%
+\contentsline {figure}{\numberline {B.2}{\ignorespaces The effect on mantle water capacity of pressure gradients due to varying the molar fraction of Fe in the mantle.}}{201}{figure.caption.55}%
+\contentsline {figure}{\numberline {B.3}{\ignorespaces The effect on mantle water capacity of pressure gradients due varying the stellar Fe abundance.}}{202}{figure.caption.56}%
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Linear regression fit of mantle oxygen fugacity with Mg/Si ratio.}}{203}{figure.caption.57}%
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Modality ratios of spinel and garnet to orthopyroxene, as a function of Al/Si.}}{204}{figure.caption.58}%
