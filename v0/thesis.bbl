@@ -951,11 +951,18 @@ Gaidos, E., Conrad, C.~P., Manga, M., and Hernlund, J. (2010).
   Exoplanets}}.
 \newblock {\em The Astrophysical Journal}, 718:596--609.
 
-\bibitem[Gaillard et~al., 2021]{Gaillard2021}
+\bibitem[Gaillard et~al., 2021a]{Gaillard2021}
 Gaillard, F., Bouhifd, M.~A., F{\"u}ri, E., Malavergne, V., Marrocchi, Y.,
-  Noack, L., Ortenzi, G., Roskosz, M., and Vulpius, S. (2021).
+  Noack, L., Ortenzi, G., Roskosz, M., and Vulpius, S. (2021a).
 \newblock The diverse planetary ingassing/outgassing paths produced over
   billions of years of magmatic activity.
+\newblock {\em Space Science Reviews}, 217(1):22.
+
+\bibitem[Gaillard et~al., 2021b]{gaillard_diverse_2021}
+Gaillard, F., Bouhifd, M.~A., F{\"u}ri, E., Malavergne, V., Marrocchi, Y.,
+  Noack, L., Ortenzi, G., Roskosz, M., and Vulpius, S. (2021b).
+\newblock The {{Diverse Planetary Ingassing}}/{{Outgassing Paths Produced}}
+  over {{Billions}} of {{Years}} of {{Magmatic Activity}}.
 \newblock {\em Space Science Reviews}, 217(1):22.
 
 \bibitem[Gaillard and Scaillet, 2014]{gaillard_theoretical_2014}
@@ -982,6 +989,13 @@ Gelman, S.~E., {Elkins-Tanton}, L.~T., and Seager, S. (2011).
 \newblock Effects of stellar flux on tidally locked terrestrial planets:
   Degree-1 mantle convection and local magma ponds.
 \newblock {\em The Astrophysical Journal}, 735(2):72.
+
+\bibitem[Gernon et~al., 2021]{gernon_global_2021}
+Gernon, T.~M., Hincks, T.~K., Merdith, A.~S., Rohling, E.~J., Palmer, M.~R.,
+  Foster, G.~L., Bataille, C.~P., and M{\"u}ller, R.~D. (2021).
+\newblock Global chemical weathering dominated by continental arcs since the
+  mid-{{Palaeozoic}}.
+\newblock {\em Nature Geoscience}, 14:690--696.
 
 \bibitem[Ghiorso et~al., 2002]{ghiorso_pmelts_2002}
 Ghiorso, M.~S., Hirschmann, M.~M., Reiners, P.~W., and Kress~III, V.~C. (2002).
@@ -1066,8 +1080,13 @@ Gronoff, G., Arras, P., Baraka, S., Bell, J.~M., Cessateur, G., Cohen, O.,
 \newblock {\em Journal of Geophysical Research: Space Physics},
   125(8):e2019JA027639.
 
-\bibitem[Grott et~al., 2011]{Grott2011}
-Grott, M., Morschhauser, A., Breuer, D., and Hauber, E. (2011).
+\bibitem[Grott et~al., 2011a]{grott_volcanic_2011}
+Grott, M., Morschhauser, A., Breuer, D., and Hauber, E. (2011a).
+\newblock Volcanic outgassing of {{CO}} 2 and {{H 2O}} on {{Mars}}.
+\newblock {\em Earth and Planetary Science Letters}, 308:391--400.
+
+\bibitem[Grott et~al., 2011b]{Grott2011}
+Grott, M., Morschhauser, A., Breuer, D., and Hauber, E. (2011b).
 \newblock Volcanic outgassing of {CO2} and {H2O} on {M}ars.
 \newblock {\em Earth and Planetary Science Letters}, 308(3-4):391--400.
 
@@ -1245,12 +1264,6 @@ Hirschmann, M.~M. (2022).
   the early Martian greenhouse}.
 \newblock {\em Earth and Planetary Science Letters}, 270(1-2):147--155.
 
-\bibitem[Hirschmann et~al., 2012]{hirschmann_solubility_2012}
-Hirschmann, M.~M., Withers, A.~C., Ardia, P., and Foley, N.~T. (2012).
-\newblock Solubility of molecular hydrogen in silicate melts and consequences
-  for volatile evolution of terrestrial planets.
-\newblock {\em Earth and Planetary Science Letters}, 345--348:38--48.
-
 \bibitem[Hoggard et~al., 2021]{hoggard_observational_2021}
 Hoggard, M., Austermann, J., Randel, C., and Stephenson, S. (2021).
 \newblock Observational {{Estimates}} of {{Dynamic Topography Through Space}}
@@ -1394,10 +1407,11 @@ Jin, S. (2021).
 \newblock {\em Monthly Notices of the Royal Astronomical Society},
   502:5302--5312.
 
-\bibitem[Jugo, 2009]{jugo_sulfur_2009}
-Jugo, P.~J. (2009).
-\newblock Sulfur content at sulfide saturation in oxidized magmas.
-\newblock {\em Geology}, 37(5):415--418.
+\bibitem[Jordan et~al., 2021]{jordan_photochemistry_2021}
+Jordan, S., Rimmer, P.~B., Shorttle, O., and Constantinou, T. (2021).
+\newblock Photochemistry of {{Venus-like Planets Orbiting K-}} and {{M-dwarf
+  Stars}}.
+\newblock {\em The Astrophysical Journal}, 922:44.
 
 \bibitem[Jull and {Arkani-Hamed}, 1995]{jull_implications_1995}
 Jull, M.~G. and {Arkani-Hamed}, J. (1995).
@@ -2014,6 +2028,12 @@ Lobo, A.~H., Shields, A.~L., Palubski, I.~Z., and Wolf, E. (2023).
 Lodders, K., Palme, H., and Gail, H.~P. (2009).
 \newblock Abundances of the {{Elements}} in the {{Solar System}}.
 \newblock {\em Landolt B\"ornstein}, 4B:712.
+
+\bibitem[Loftus et~al., 2019]{loftus_sulfate_2019}
+Loftus, K., Wordsworth, R.~D., and Morley, C.~V. (2019).
+\newblock Sulfate {{Aerosol Hazes}} and {{SO2 Gas}} as {{Constraints}} on
+  {{Rocky Exoplanets}}' {{Surface Liquid Water}}.
+\newblock {\em The Astrophysical Journal}, 887:231.
 
 \bibitem[Louren{\c c}o et~al., 2017]{lourenco_plutonicsquishy_2017}
 Louren{\c c}o, D.~L., Rozel, A., Ballmer, M., and Tackley, P. (2017).
@@ -2677,12 +2697,6 @@ Putirka, K.~D. and Rarick, J.~C. (2019).
   {$>$}4000 stars from the {{Hypatia Catalog}}.
 \newblock {\em American Mineralogist}, 104(6):817--829.
 
-\bibitem[Putirka and Xu, 2021]{putirka_polluted_2021}
-Putirka, K.~D. and Xu, S. (2021).
-\newblock Polluted {{White Dwarfs Reveal Exotic Mantle Rock Types}} on
-  {{Exoplanets}} in our {{Solar Neighborhood}}.
-\newblock {\em Nature Communications}, 12(1):6168.
-
 \bibitem[Pysklywec and Shahnas, 2003]{pysklywec_timedependent_2003}
 Pysklywec, R.~N. and Shahnas, M.~H. (2003).
 \newblock Time-dependent surface topography in a coupled crust\textendash
@@ -3182,13 +3196,6 @@ Spina, L., Mel{\'e}ndez, J., and Ram{\'i}rez, I. (2016).
   interior}.
 \newblock {\em Journal of the Geological Society}, 176(2):375--387.
 
-\bibitem[Stagno and Frost, 2010]{stagno_carbon_2010}
-Stagno, V. and Frost, D.~J. (2010).
-\newblock Carbon speciation in the asthenosphere: {{Experimental}} measurements
-  of the redox conditions at which carbonate-bearing melts coexist with
-  graphite or diamond in peridotite assemblages.
-\newblock {\em Earth and Planetary Science Letters}, 300(1):72--84.
-
 \bibitem[Stagno et~al., 2013]{stagno_oxidation_2013}
 Stagno, V., Ojwang, D.~O., McCammon, C.~A., and Frost, D.~J. (2013).
 \newblock The oxidation state of the mantle and the extraction of carbon from
@@ -3268,6 +3275,12 @@ St{\"u}eken, E.~E., Som, S.~M., Claire, M., Rugheimer, S., Scherf, M.,
   Spro{\ss}, L., Tosi, N., Ueno, Y., and Lammer, H. (2020).
 \newblock Mission to planet earth: The first two billion years.
 \newblock {\em Space Science Reviews}, 216(2):31.
+
+\bibitem[Sutherland, 2017]{sutherland_opinion_2017}
+Sutherland, J.~D. (2017).
+\newblock Opinion: {{Studies}} on the origin of life \textemdash{} the end of
+  the beginning.
+\newblock {\em Nature Reviews Chemistry}, 1(2):1--7.
 
 \bibitem[Tackley, 1995]{tackley_mantle_1995}
 Tackley, P.~J. (1995).
@@ -3605,6 +3618,13 @@ Wallace, P.~J. (2005).
 \newblock {Effects of eruption and lava drainback on the H$_{2}$O contents of
   basaltic magmas at Kilauea Volcano}.
 \newblock {\em Bulletin of Volcanology}, 59(5):327--344.
+
+\bibitem[Walton et~al., 2023]{walton_phosphorus_2023}
+Walton, C.~R., Ewens, S., Coates, J.~D., Blake, R.~E., Planavsky, N.~J.,
+  Reinhard, C., Ju, P., Hao, J., and Pasek, M.~A. (2023).
+\newblock Phosphorus availability on the early {{Earth}} and the impacts of
+  life.
+\newblock {\em Nature Geoscience}, 16(5):399--409.
 
 \bibitem[Walton et~al., 2022]{walton_can_2022}
 Walton, C.~R., Rimmer, P., and Shorttle, O. (2022).

@@ -8,12 +8,12 @@
 \nomenclatureentry{a-urUr@[{Ur}]\begingroup Urey ratio\nomeqref {1.0}|nompageref}{4}
 \nomenclatureentry{a-nuNu@[{Nu}]\begingroup Nusselt number\nomeqref {1.0}|nompageref}{4}
 \nomenclatureentry{a-radiusp$R_p$@[{$R_p$}]\begingroup planet radius [m]\nomeqref {1.0}|nompageref}{4}
-\nomenclatureentry{g-a$\alpha$@[{$\alpha$}]\begingroup thermal expansivity [K$^{-1}$]\nomeqref {2.1}|nompageref}{27}
-\nomenclatureentry{g-p$\rho$@[{$\rho$}]\begingroup density [${\rm kg\,m^{-3}}$]\nomeqref {2.1}|nompageref}{27}
-\nomenclatureentry{a-g$g$@[{$g$}]\begingroup acceleration due to gravity [${\rm m\,s^{-2}}$]\nomeqref {2.1}|nompageref}{27}
-\nomenclatureentry{a-d$d$@[{$d$}]\begingroup thickness of convecting layer in Rayleigh number calculation [m]\nomeqref {2.1}|nompageref}{27}
-\nomenclatureentry{g-k$\kappa$@[{$\kappa$}]\begingroup thermal diffusivity [${\rm m^2\,s^{-1}}$]\nomeqref {2.1}|nompageref}{27}
-\nomenclatureentry{g-e$\eta$@[{$\eta$}]\begingroup dynamic viscosity [${\rm Pa\,s}$]\nomeqref {2.1}|nompageref}{27}
+\nomenclatureentry{g-a$\alpha$@[{$\alpha$}]\begingroup thermal expansivity [K$^{-1}$]\nomeqref {2.1}|nompageref}{26}
+\nomenclatureentry{g-p$\rho$@[{$\rho$}]\begingroup density [${\rm kg\,m^{-3}}$]\nomeqref {2.1}|nompageref}{26}
+\nomenclatureentry{a-g$g$@[{$g$}]\begingroup acceleration due to gravity [${\rm m\,s^{-2}}$]\nomeqref {2.1}|nompageref}{26}
+\nomenclatureentry{a-d$d$@[{$d$}]\begingroup thickness of convecting layer in Rayleigh number calculation [m]\nomeqref {2.1}|nompageref}{26}
+\nomenclatureentry{g-k$\kappa$@[{$\kappa$}]\begingroup thermal diffusivity [${\rm m^2\,s^{-1}}$]\nomeqref {2.1}|nompageref}{26}
+\nomenclatureentry{g-e$\eta$@[{$\eta$}]\begingroup dynamic viscosity [${\rm Pa\,s}$]\nomeqref {2.1}|nompageref}{26}
 \nomenclatureentry{a-rayleighRa@[{Ra}]\begingroup thermal Rayleigh number\nomeqref {2.1}|nompageref}{28}
 \nomenclatureentry{g-e$\Delta \eta$@[{$\Delta \eta$}]\begingroup dynamic viscosity ratio between top and bottom of convecting layer\nomeqref {2.1}|nompageref}{28}
 \nomenclatureentry{a-b$b$@[{$b$}]\begingroup temperature prefactor in dimensionless exponential viscosity law\nomeqref {2.1}|nompageref}{28}
@@ -49,44 +49,44 @@
 \nomenclatureentry{r-c$c$@[{$c$}]\begingroup value at lower thermal boundary layer of convecting mantle\nomeqref {2.6}|nompageref}{34}
 \nomenclatureentry{z-cmfCMF@[{CMF}]\begingroup core mass fraction\nomeqref {2.8}|nompageref}{35}
 \nomenclatureentry{a-massp$M_p$@[{$M_p$}]\begingroup planet mass [kg]\nomeqref {2.8}|nompageref}{35}
-\nomenclatureentry{a-rb$R_b$@[{$R_b$}]\begingroup gas constant [$\rm{J\,mol^{-1}\,K^{-1}}$]\nomeqref {2.9}|nompageref}{35}
+\nomenclatureentry{a-rb$R_b$@[{$R_b$}]\begingroup gas constant [$\rm{J\,mol^{-1}\,K^{-1}}$]\nomeqref {2.9}|nompageref}{36}
 \nomenclatureentry{a-tempzx$\Delta T_\nu$@[{$\Delta T_\nu$}]\begingroup viscous temperature scale [K]\nomeqref {2.15}|nompageref}{38}
 \nomenclatureentry{a-radiusl$R_{\rm lid}$@[{$R_{\rm lid}$}]\begingroup radius at base of stagnant lid [m]\nomeqref {2.15}|nompageref}{38}
 \nomenclatureentry{s-s$s$@[{$s$}]\begingroup value at planetary surface\nomeqref {2.16}|nompageref}{38}
-\nomenclatureentry{a-hp$h_{\rm peak}$@[{$h_{\rm peak}$}]\begingroup height (of topography), peak value [m]\nomeqref {2.18}|nompageref}{39}
+\nomenclatureentry{a-hp$h_{\rm peak}$@[{$h_{\rm peak}$}]\begingroup height (of topography), peak value [m]\nomeqref {2.18}|nompageref}{40}
 \nomenclatureentry{a-v$V_{\rm cap}$@[{$V_{\rm cap}$}]\begingroup ocean basin volume capacity [m$^{-3}$]\nomeqref {2.19}|nompageref}{40}
 \nomenclatureentry{g-rw$\rho_w$@[{$\rho_w$}]\begingroup density of water [${\rm kg\,m}^{-3}$]\nomeqref {2.19}|nompageref}{40}
 \nomenclatureentry{a-y$Y$@[{$Y$}]\begingroup crustal strength [Pa]\nomeqref {2.21}|nompageref}{55}
-\nomenclatureentry{a-dr$d^r$@[{$d^r$}]\begingroup grain size [mm] with exponent in Arrhenius viscosity law\nomeqref {3.1}|nompageref}{63}
-\nomenclatureentry{a-v$V_a$@[{$V_a$}]\begingroup activation volume in Arrhenius viscosity law [${\rm cm}^{3}\,{\rm mol}^{-1}$]\nomeqref {3.1}|nompageref}{63}
-\nomenclatureentry{a-f$F$@[{$F$}]\begingroup melt fraction\nomeqref {3.2}|nompageref}{64}
-\nomenclatureentry{g-xmelt$\chi_{\rm H_2O}^{\rm melt}$@[{$\chi_{\rm H_2O}^{\rm melt}$}]\begingroup melt H$_2$O concentration by weight\nomeqref {3.7}|nompageref}{65}
-\nomenclatureentry{g-xmelt$\chi_{\rm CO_2}^{\rm melt}$@[{$\chi_{\rm CO_2}^{\rm melt}$}]\begingroup melt CO$_2$ concentration by weight\nomeqref {3.7}|nompageref}{65}
-\nomenclatureentry{g-xe$\chi_{\rm extr}$@[{$\chi_{\rm extr}$}]\begingroup extrusive percentage of volcanism\nomeqref {3.13}|nompageref}{67}
-\nomenclatureentry{g-xini$\chi_{\rm H_2O}^{\mathrm{ini}}$@[{$\chi_{\rm H_2O}^{\mathrm{ini}}$}]\begingroup initial mantle H$_2$O concentration by weight\nomeqref {3.14}|nompageref}{67}
-\nomenclatureentry{g-xini$\chi_{\rm CO_2}^{\mathrm{ini}}$@[{$\chi_{\rm CO_2}^{\mathrm{ini}}$}]\begingroup initial mantle CO$_2$ concentration by weight\nomeqref {3.14}|nompageref}{67}
-\nomenclatureentry{a-ffe$f^{\rm Fe}_{\rm mantle}$@[{$f^{\rm Fe}_{\rm mantle}$}]\begingroup molar fraction of iron in mantle to total iron in bulk planet\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-xh[X/H]@[{[X/H]}]\begingroup logarithmic stellar abundance ratio of an element X to hydrogen and normalised to the solar value.\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-mtzMTZ@[{MTZ}]\begingroup mantle transition zone\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-namNAM@[{NAM}]\begingroup nominally anhydrous mineral\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-cmbCMB@[{CMB}]\begingroup core-mantle boundary\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-radius$r$@[{$r$}]\begingroup radius [m]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-g$G$@[{$G$}]\begingroup gravitational constant [${\rm m^3 \, kg^{-1} \, s^{-2}}$]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-h$\Delta H^{\rm 1 bar}$@[{$\Delta H^{\rm 1 bar}$}]\begingroup reaction enthalpy at 1 bar [${\rm J \, mol^{-1}}$]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-v$\Delta V^{\rm solid}$@[{$\Delta V^{\rm solid}$}]\begingroup reaction volume change of solids [${\rm m^3 \, mol^{-1}}$]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-fzw$f_{\ce{H2O}}$@[{$f_{\ce{H2O}}$}]\begingroup water fugacity\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-c$c_{\ce{H2O}}$@[{$c_{\ce{H2O}}$}]\begingroup concentration by weight of water at water saturation (in mineral)\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-d$D$@[{$D$}]\begingroup ratio describing partitioning of a component (usually water) between two phases\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-w$w$@[{$w$}]\begingroup water mass at water saturation (in planetary mantle) [kg]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-tempx$T_p$@[{$T_p$}]\begingroup potential temperature [K]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-omOM@[{OM}]\begingroup ocean mass, value for Earth's surface ocean [kg]\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-umUM@[{UM}]\begingroup upper mantle\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-umLM@[{LM}]\begingroup lower mantle\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{z-obmOBM@[{OBM}]\begingroup olivine-bearing mantle\nomeqref {4.0}|nompageref}{89}
-\nomenclatureentry{a-feFe$^{3+}/\Sigma$Fe@[{Fe$^{3+}/\Sigma$Fe}]\begingroup molar fraction of ferric iron to total iron in mantle oxides\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{a-feoFeO$^*$@[{FeO$^*$}]\begingroup the sum of \ce{FeO} and \ce{Fe2O3}\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{a-g$\Delta G^\circ$@[{$\Delta G^\circ$}]\begingroup Gibbs free energy of reaction [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{a-k$K$@[{$K$}]\begingroup equilibrium constant (for given reaction)\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{g-m$\mu$@[{$\mu$}]\begingroup chemical potential [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{a-a$a$@[{$a$}]\begingroup thermodynamic activity (of given component)\nomeqref {5.0}|nompageref}{123}
-\nomenclatureentry{z-vVERITAS@[{VERITAS}]\begingroup Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy\nomeqref {6.0}|nompageref}{150}
+\nomenclatureentry{a-dr$d^r$@[{$d^r$}]\begingroup grain size [mm] with exponent in Arrhenius viscosity law\nomeqref {3.1}|nompageref}{65}
+\nomenclatureentry{a-v$V_a$@[{$V_a$}]\begingroup activation volume in Arrhenius viscosity law [${\rm cm}^{3}\,{\rm mol}^{-1}$]\nomeqref {3.1}|nompageref}{65}
+\nomenclatureentry{a-f$F$@[{$F$}]\begingroup melt fraction\nomeqref {3.2}|nompageref}{66}
+\nomenclatureentry{g-xmelt$\chi_{\rm H_2O}^{\rm melt}$@[{$\chi_{\rm H_2O}^{\rm melt}$}]\begingroup melt H$_2$O concentration by weight\nomeqref {3.7}|nompageref}{67}
+\nomenclatureentry{g-xmelt$\chi_{\rm CO_2}^{\rm melt}$@[{$\chi_{\rm CO_2}^{\rm melt}$}]\begingroup melt CO$_2$ concentration by weight\nomeqref {3.7}|nompageref}{67}
+\nomenclatureentry{g-xe$\chi_{\rm extr}$@[{$\chi_{\rm extr}$}]\begingroup extrusive percentage of volcanism\nomeqref {3.13}|nompageref}{69}
+\nomenclatureentry{g-xini$\chi_{\rm H_2O}^{\mathrm{ini}}$@[{$\chi_{\rm H_2O}^{\mathrm{ini}}$}]\begingroup initial mantle H$_2$O concentration by weight\nomeqref {3.14}|nompageref}{69}
+\nomenclatureentry{g-xini$\chi_{\rm CO_2}^{\mathrm{ini}}$@[{$\chi_{\rm CO_2}^{\mathrm{ini}}$}]\begingroup initial mantle CO$_2$ concentration by weight\nomeqref {3.14}|nompageref}{69}
+\nomenclatureentry{a-ffe$f^{\rm Fe}_{\rm mantle}$@[{$f^{\rm Fe}_{\rm mantle}$}]\begingroup molar fraction of iron in mantle to total iron in bulk planet\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-xh[X/H]@[{[X/H]}]\begingroup logarithmic stellar abundance ratio of an element X to hydrogen and normalised to the solar value.\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-mtzMTZ@[{MTZ}]\begingroup mantle transition zone\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-namNAM@[{NAM}]\begingroup nominally anhydrous mineral\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-cmbCMB@[{CMB}]\begingroup core-mantle boundary\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-radius$r$@[{$r$}]\begingroup radius [m]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-g$G$@[{$G$}]\begingroup gravitational constant [${\rm m^3 \, kg^{-1} \, s^{-2}}$]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-h$\Delta H^{\rm 1 bar}$@[{$\Delta H^{\rm 1 bar}$}]\begingroup reaction enthalpy at 1 bar [${\rm J \, mol^{-1}}$]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-v$\Delta V^{\rm solid}$@[{$\Delta V^{\rm solid}$}]\begingroup reaction volume change of solids [${\rm m^3 \, mol^{-1}}$]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-fzw$f_{\ce{H2O}}$@[{$f_{\ce{H2O}}$}]\begingroup water fugacity\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-c$c_{\ce{H2O}}$@[{$c_{\ce{H2O}}$}]\begingroup concentration by weight of water at water saturation (in mineral)\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-d$D$@[{$D$}]\begingroup ratio describing partitioning of a component (usually water) between two phases\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-w$w$@[{$w$}]\begingroup water mass at water saturation (in planetary mantle) [kg]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-tempx$T_p$@[{$T_p$}]\begingroup potential temperature [K]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-omOM@[{OM}]\begingroup ocean mass, value for Earth's surface ocean [kg]\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-umUM@[{UM}]\begingroup upper mantle\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-umLM@[{LM}]\begingroup lower mantle\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{z-obmOBM@[{OBM}]\begingroup olivine-bearing mantle\nomeqref {4.0}|nompageref}{91}
+\nomenclatureentry{a-feFe$^{3+}/\Sigma$Fe@[{Fe$^{3+}/\Sigma$Fe}]\begingroup molar fraction of ferric iron to total iron in mantle oxides\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{a-feoFeO$^*$@[{FeO$^*$}]\begingroup the sum of \ce{FeO} and \ce{Fe2O3}\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{a-g$\Delta G^\circ$@[{$\Delta G^\circ$}]\begingroup Gibbs free energy of reaction [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{a-k$K$@[{$K$}]\begingroup equilibrium constant (for given reaction)\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{g-m$\mu$@[{$\mu$}]\begingroup chemical potential [${\rm J}\,{\rm mol}^{-1}$]\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{a-a$a$@[{$a$}]\begingroup thermodynamic activity (of given component)\nomeqref {5.0}|nompageref}{125}
+\nomenclatureentry{z-vVERITAS@[{VERITAS}]\begingroup Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy\nomeqref {6.0}|nompageref}{152}

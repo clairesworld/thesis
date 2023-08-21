@@ -18,8 +18,8 @@
 \contentsline {section}{\numberline {1.4}Structure of the thesis}{22}{section.1.4}%
 \contentsline {chapter}{\numberline {2}Blue marble, stagnant lid: Could dynamic topography avert a waterworld?}{23}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{24}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Dynamic topography scaling relationships}{27}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}The harmonic structure of planetary surface relief}{28}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.1}Dynamic topography scaling relationships}{26}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}The harmonic structure of planetary surface relief}{29}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}Study outline}{29}{subsection.2.1.3}%
 \contentsline {section}{\numberline {2.2}Methods}{30}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Numerical convection model}{30}{subsection.2.2.1}%
@@ -33,152 +33,152 @@
 \contentsline {paragraph}{Internal heating}{36}{subsubsection.2.2.2.4}%
 \contentsline {paragraph}{Thermal boundary layers}{37}{equation.2.2.10}%
 \contentsline {subsubsection}{\numberline {2.2.2.5}Stagnant lid thickness and the final governing equation}{38}{subsubsection.2.2.2.5}%
-\contentsline {subsubsection}{\numberline {2.2.2.6}Dynamic topography}{38}{subsubsection.2.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.3}Expansion to maps and the volume of ocean basins}{39}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Results}{40}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Numerical modelling results}{40}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.6}Dynamic topography}{39}{subsubsection.2.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.3}Expansion to maps and the volume of ocean basins}{40}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Results}{41}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Numerical modelling results}{41}{subsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.1.1}Fit to RMS height of topography}{41}{subsubsection.2.3.1.1}%
-\contentsline {subsection}{\numberline {2.3.2}Parameterised modelling results}{42}{subsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.2.1}Thermal evolution}{42}{subsubsection.2.3.2.1}%
+\contentsline {subsection}{\numberline {2.3.2}Parameterised modelling results}{43}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}Thermal evolution}{43}{subsubsection.2.3.2.1}%
 \contentsline {subsubsection}{\numberline {2.3.2.2}Dynamic topography as a function of bulk exoplanetary properties}{45}{subsubsection.2.3.2.2}%
-\contentsline {subsection}{\numberline {2.3.3}Ocean basin capacity scalings}{45}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Discussion}{47}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Expanding RMS topography}{47}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}The role of rheology and its uncertainties}{48}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.3.3}Ocean basin capacity scalings}{46}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Discussion}{48}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Expanding RMS topography}{48}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}The role of rheology and its uncertainties}{49}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Caveats to topography predictions from numerical convection}{50}{subsection.2.4.3}%
 \contentsline {subsubsection}{\numberline {2.4.3.1}Low-order power}{50}{subsubsection.2.4.3.1}%
-\contentsline {subsubsection}{\numberline {2.4.3.2}Geometry and heating mode effects}{50}{subsubsection.2.4.3.2}%
+\contentsline {subsubsection}{\numberline {2.4.3.2}Geometry and heating mode effects}{51}{subsubsection.2.4.3.2}%
 \contentsline {subsubsection}{\numberline {2.4.3.3}Filtering in the lithosphere}{51}{subsubsection.2.4.3.3}%
 \contentsline {subsubsection}{\numberline {2.4.3.4}Paucity of ground truths}{51}{subsubsection.2.4.3.4}%
-\contentsline {subsection}{\numberline {2.4.4}Caveats to using scaling relationships}{51}{subsection.2.4.4}%
-\contentsline {subsubsection}{\numberline {2.4.4.1}Sensitivity to functional form}{51}{subsubsection.2.4.4.1}%
+\contentsline {subsection}{\numberline {2.4.4}Caveats to using scaling relationships}{52}{subsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.4.1}Sensitivity to functional form}{52}{subsubsection.2.4.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.4.2}Extrapolation across Rayleigh numbers}{52}{subsubsection.2.4.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.4.3}Accuracy of interior Rayleigh number estimates}{52}{subsubsection.2.4.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4.3}Accuracy of interior Rayleigh number estimates}{53}{subsubsection.2.4.4.3}%
 \contentsline {subsubsection}{\numberline {2.4.4.4}Model validity at high planet mass}{53}{subsubsection.2.4.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}A crustal strength limit and the inundation of the TRAPPIST-1 system}{53}{subsection.2.4.5}%
-\contentsline {subsection}{\numberline {2.4.6}Constraints from astrophysical data}{56}{subsection.2.4.6}%
-\contentsline {section}{\numberline {2.5}Conclusions}{57}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Low volcanic outgassing rates for a stagnant lid Archean Earth}{59}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{60}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Methods}{62}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Numerical convection model}{63}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Melting model}{64}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Volatile partitioning model}{64}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Volatile speciation model}{66}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Initial conditions and free parameters}{67}{subsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.5.1}Choice of initial temperatures}{67}{subsubsection.3.2.5.1}%
-\contentsline {subsubsection}{\numberline {3.2.5.2}Choice of initial volatile contents}{68}{subsubsection.3.2.5.2}%
-\contentsline {subsubsection}{\numberline {3.2.5.3}Choice of mantle oxidation states}{69}{subsubsection.3.2.5.3}%
-\contentsline {subsubsection}{\numberline {3.2.5.4}Choice of extrusive volcanism percentages}{69}{subsubsection.3.2.5.4}%
-\contentsline {section}{\numberline {3.3}Results}{69}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Thermal history and melt production}{71}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Melt contents of \ch {H2O} and \ch {CO2}}{71}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Exploration of outgassing scenarios}{71}{subsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.3.1}Outgassing as a function of mantle oxidation state}{73}{subsubsection.3.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.3.2}Other factors influencing outgassing}{73}{subsubsection.3.3.3.2}%
-\contentsline {paragraph}{Influence of initial temperatures}{73}{subsubsection.3.3.3.2}%
-\contentsline {paragraph}{Influence of extrusive volcanism fractions}{76}{subsubsection.3.3.3.2}%
-\contentsline {paragraph}{Role of melt production rate versus melt volatile content}{76}{subsubsection.3.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3.3}Redox-marginalised outgassing distributions}{77}{subsubsection.3.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Secular mantle oxidation}{77}{subsection.3.3.4}%
-\contentsline {section}{\numberline {3.4}Discussion}{80}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Some important considerations about the assumptions in this model}{80}{subsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.1.1}Viscosity treatment}{80}{subsubsection.3.4.1.1}%
-\contentsline {subsubsection}{\numberline {3.4.1.2}Submarine versus subaerial outgassing}{80}{subsubsection.3.4.1.2}%
-\contentsline {subsubsection}{\numberline {3.4.1.3}Note on \ch {CH4} outgassing}{81}{subsubsection.3.4.1.3}%
-\contentsline {subsubsection}{\numberline {3.4.1.4}Buoyancy limit of melting}{81}{subsubsection.3.4.1.4}%
-\contentsline {subsubsection}{\numberline {3.4.1.5}Stagnant lid outgassing effects}{81}{subsubsection.3.4.1.5}%
-\contentsline {subsection}{\numberline {3.4.2}Observational context}{82}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}Modern Earth's volcanic outgassing}{82}{subsubsection.3.4.2.1}%
-\contentsline {paragraph}{Mantle oxidation state}{83}{subsubsection.3.4.2.1}%
-\contentsline {paragraph}{Melt production}{84}{subsubsection.3.4.2.1}%
-\contentsline {paragraph}{Mantle concentrations}{84}{subsubsection.3.4.2.1}%
-\contentsline {paragraph}{Melt concentrations}{84}{subsubsection.3.4.2.1}%
-\contentsline {subsubsection}{\numberline {3.4.2.2}Archean outgassing proxies}{84}{subsubsection.3.4.2.2}%
-\contentsline {subsection}{\numberline {3.4.3}Implications for the Archean Earth system}{85}{subsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.3.1}From outgassing to atmospheric composition}{85}{subsubsection.3.4.3.1}%
-\contentsline {subsubsection}{\numberline {3.4.3.2}Greenhouse warming under the Faint Young Sun}{85}{subsubsection.3.4.3.2}%
-\contentsline {section}{\numberline {3.5}Conclusions}{86}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Mantle mineralogy limits to rocky planet water inventories}{89}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{90}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Methods}{92}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}From stellar abundances to planet bulk composition}{92}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Core mass fraction and partitioning of Fe}{93}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.2}Some initial caveats}{94}{subsubsection.4.2.1.2}%
-\contentsline {subsection}{\numberline {4.2.2}Interior structure and mineralogy}{95}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Mineral water solubility parameterisations}{97}{subsection.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.2.3.1}Water solubility of olivine, wadsleyite, and ringwoodite}{99}{subsubsection.4.2.3.1}%
-\contentsline {subsubsection}{\numberline {4.2.3.2}Water solubility of upper mantle and transition zone minerals}{100}{subsubsection.4.2.3.2}%
-\contentsline {paragraph}{Orthopyroxene (opx)}{100}{subsubsection.4.2.3.2}%
-\contentsline {paragraph}{Clinopyroxene (cpx)}{100}{subsubsection.4.2.3.2}%
-\contentsline {paragraph}{High-pressure clinopyroxene (hcpx)}{100}{subsubsection.4.2.3.2}%
-\contentsline {paragraph}{Garnet (gt)}{100}{subsubsection.4.2.3.2}%
-\contentsline {paragraph}{Minor phases}{101}{subsubsection.4.2.3.2}%
-\contentsline {subsubsection}{\numberline {4.2.3.3}Water solubility of lower mantle minerals}{101}{subsubsection.4.2.3.3}%
-\contentsline {paragraph}{Perovskite (pv)}{101}{subsubsection.4.2.3.3}%
-\contentsline {paragraph}{Postperovskite (ppv)}{101}{subsubsection.4.2.3.3}%
-\contentsline {paragraph}{Ferropericlase (fp)}{101}{subsubsection.4.2.3.3}%
-\contentsline {paragraph}{Davemaoite (dvm)}{101}{subsubsection.4.2.3.3}%
-\contentsline {paragraph}{FeAlO$_3$ perovskite (fapv)}{101}{subsubsection.4.2.3.3}%
-\contentsline {subsubsection}{\numberline {4.2.3.4}Hydrous phases}{102}{subsubsection.4.2.3.4}%
-\contentsline {subsubsection}{\numberline {4.2.3.5}Water solubility of SiO$_2$ polymorphs}{102}{subsubsection.4.2.3.5}%
-\contentsline {paragraph}{Quartz (qtz)}{102}{subsubsection.4.2.3.5}%
-\contentsline {paragraph}{Coesite (coes)}{102}{subsubsection.4.2.3.5}%
-\contentsline {paragraph}{Stishovite (stv)}{102}{subsubsection.4.2.3.5}%
-\contentsline {paragraph}{Seifertite (seif)}{102}{subsubsection.4.2.3.5}%
-\contentsline {subsection}{\numberline {4.2.4}Mantle potential temperature}{103}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Results}{103}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Compositionally-dependent mantle water capacities}{103}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Scaling mantle water capacity with planet mass}{105}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Interior water mass fractions of rocky planets}{108}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}Sensitivity to water saturation parameterisation}{110}{subsubsection.4.3.3.1}%
-\contentsline {subsection}{\numberline {4.3.4}Mineralogical and structural effects of planetary Fe partitioning}{112}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Results summary}{112}{subsection.4.3.5}%
-\contentsline {section}{\numberline {4.4}Discussion}{114}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Implications and consequences}{114}{subsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.1.1}The occurrence rate of ocean planets}{114}{subsubsection.4.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.4.1.2}Consequences and corollaries of a temperature dependence of mantle water storage capacity}{115}{subsubsection.4.4.1.2}%
-\contentsline {paragraph}{Patterns in $T_p$ across planets}{115}{figure.caption.41}%
-\contentsline {paragraph}{Lower mantle water capacities in the past}{117}{figure.caption.41}%
-\contentsline {subsubsection}{\numberline {4.4.1.3}Deep water cycling, melting, and outgassing efficiency}{118}{subsubsection.4.4.1.3}%
-\contentsline {paragraph}{Mantle-melt density crossover}{118}{subsubsection.4.4.1.3}%
-\contentsline {paragraph}{A water saturation bottleneck}{118}{subsubsection.4.4.1.3}%
-\contentsline {subsection}{\numberline {4.4.2}Possibility of SiO$_2$-rich planets}{120}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Key experimental and theoretical data needs}{120}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Conclusions}{121}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Modulation of mantle oxygen fugacity by host star refractory abundances}{123}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{124}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Quantifying how oxidising a planet's mantle is}{125}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Mantle mineralogy and $f_{\ce {O2}}$}{126}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}This study's constraint on exoplanet mantle $f_{\ce {O2}}$}{127}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}Methods}{128}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Phase equilibria and oxygen fugacity}{128}{subsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.1}Absolute oxygen fugacity from chemical potentials}{129}{subsubsection.5.2.1.1}%
-\contentsline {subsubsection}{\numberline {5.2.1.2}Relative oxygen fugacity using buffers}{129}{subsubsection.5.2.1.2}%
-\contentsline {subsection}{\numberline {5.2.2}Mantle bulk composition from stellar element abundances}{130}{subsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.2.1}Nominal ferric iron content}{131}{subsubsection.5.2.2.1}%
+\contentsline {subsection}{\numberline {2.4.6}Constraints from astrophysical data}{57}{subsection.2.4.6}%
+\contentsline {section}{\numberline {2.5}Conclusions}{58}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Low volcanic outgassing rates for a stagnant lid Archean Earth}{61}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{62}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Methods}{64}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Numerical convection model}{65}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Melting model}{66}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Volatile partitioning model}{66}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Volatile speciation model}{68}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Initial conditions and free parameters}{69}{subsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.5.1}Choice of initial temperatures}{69}{subsubsection.3.2.5.1}%
+\contentsline {subsubsection}{\numberline {3.2.5.2}Choice of initial volatile contents}{70}{subsubsection.3.2.5.2}%
+\contentsline {subsubsection}{\numberline {3.2.5.3}Choice of mantle oxidation states}{71}{subsubsection.3.2.5.3}%
+\contentsline {subsubsection}{\numberline {3.2.5.4}Choice of extrusive volcanism percentages}{71}{subsubsection.3.2.5.4}%
+\contentsline {section}{\numberline {3.3}Results}{71}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Thermal history and melt production}{73}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Melt contents of \ch {H2O} and \ch {CO2}}{73}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Exploration of outgassing scenarios}{73}{subsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3.1}Outgassing as a function of mantle oxidation state}{75}{subsubsection.3.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.3.2}Other factors influencing outgassing}{75}{subsubsection.3.3.3.2}%
+\contentsline {paragraph}{Influence of initial temperatures}{75}{subsubsection.3.3.3.2}%
+\contentsline {paragraph}{Influence of extrusive volcanism fractions}{78}{subsubsection.3.3.3.2}%
+\contentsline {paragraph}{Role of melt production rate versus melt volatile content}{78}{subsubsection.3.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3.3}Redox-marginalised outgassing distributions}{79}{subsubsection.3.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Secular mantle oxidation}{79}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Discussion}{82}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Some important considerations about the assumptions in this model}{82}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}Viscosity treatment}{82}{subsubsection.3.4.1.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.2}Submarine versus subaerial outgassing}{82}{subsubsection.3.4.1.2}%
+\contentsline {subsubsection}{\numberline {3.4.1.3}Note on \ch {CH4} outgassing}{83}{subsubsection.3.4.1.3}%
+\contentsline {subsubsection}{\numberline {3.4.1.4}Buoyancy limit of melting}{83}{subsubsection.3.4.1.4}%
+\contentsline {subsubsection}{\numberline {3.4.1.5}Stagnant lid outgassing effects}{83}{subsubsection.3.4.1.5}%
+\contentsline {subsection}{\numberline {3.4.2}Observational context}{84}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Modern Earth's volcanic outgassing}{84}{subsubsection.3.4.2.1}%
+\contentsline {paragraph}{Mantle oxidation state}{85}{subsubsection.3.4.2.1}%
+\contentsline {paragraph}{Melt production}{86}{subsubsection.3.4.2.1}%
+\contentsline {paragraph}{Mantle concentrations}{86}{subsubsection.3.4.2.1}%
+\contentsline {paragraph}{Melt concentrations}{86}{subsubsection.3.4.2.1}%
+\contentsline {subsubsection}{\numberline {3.4.2.2}Archean outgassing proxies}{86}{subsubsection.3.4.2.2}%
+\contentsline {subsection}{\numberline {3.4.3}Implications for the Archean Earth system}{87}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}From outgassing to atmospheric composition}{87}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Greenhouse warming under the Faint Young Sun}{87}{subsubsection.3.4.3.2}%
+\contentsline {section}{\numberline {3.5}Conclusions}{88}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Mantle mineralogy limits to rocky planet water inventories}{91}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{92}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Methods}{94}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}From stellar abundances to planet bulk composition}{94}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Core mass fraction and partitioning of Fe}{95}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Some initial caveats}{96}{subsubsection.4.2.1.2}%
+\contentsline {subsection}{\numberline {4.2.2}Interior structure and mineralogy}{97}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Mineral water solubility parameterisations}{99}{subsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}Water solubility of olivine, wadsleyite, and ringwoodite}{101}{subsubsection.4.2.3.1}%
+\contentsline {subsubsection}{\numberline {4.2.3.2}Water solubility of upper mantle and transition zone minerals}{102}{subsubsection.4.2.3.2}%
+\contentsline {paragraph}{Orthopyroxene (opx)}{102}{subsubsection.4.2.3.2}%
+\contentsline {paragraph}{Clinopyroxene (cpx)}{102}{subsubsection.4.2.3.2}%
+\contentsline {paragraph}{High-pressure clinopyroxene (hcpx)}{102}{subsubsection.4.2.3.2}%
+\contentsline {paragraph}{Garnet (gt)}{102}{subsubsection.4.2.3.2}%
+\contentsline {paragraph}{Minor phases}{103}{subsubsection.4.2.3.2}%
+\contentsline {subsubsection}{\numberline {4.2.3.3}Water solubility of lower mantle minerals}{103}{subsubsection.4.2.3.3}%
+\contentsline {paragraph}{Perovskite (pv)}{103}{subsubsection.4.2.3.3}%
+\contentsline {paragraph}{Postperovskite (ppv)}{103}{subsubsection.4.2.3.3}%
+\contentsline {paragraph}{Ferropericlase (fp)}{103}{subsubsection.4.2.3.3}%
+\contentsline {paragraph}{Davemaoite (dvm)}{103}{subsubsection.4.2.3.3}%
+\contentsline {paragraph}{FeAlO$_3$ perovskite (fapv)}{103}{subsubsection.4.2.3.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.4}Hydrous phases}{104}{subsubsection.4.2.3.4}%
+\contentsline {subsubsection}{\numberline {4.2.3.5}Water solubility of SiO$_2$ polymorphs}{104}{subsubsection.4.2.3.5}%
+\contentsline {paragraph}{Quartz (qtz)}{104}{subsubsection.4.2.3.5}%
+\contentsline {paragraph}{Coesite (coes)}{104}{subsubsection.4.2.3.5}%
+\contentsline {paragraph}{Stishovite (stv)}{104}{subsubsection.4.2.3.5}%
+\contentsline {paragraph}{Seifertite (seif)}{104}{subsubsection.4.2.3.5}%
+\contentsline {subsection}{\numberline {4.2.4}Mantle potential temperature}{105}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Results}{105}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Compositionally-dependent mantle water capacities}{105}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Scaling mantle water capacity with planet mass}{107}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Interior water mass fractions of rocky planets}{110}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}Sensitivity to water saturation parameterisation}{112}{subsubsection.4.3.3.1}%
+\contentsline {subsection}{\numberline {4.3.4}Mineralogical and structural effects of planetary Fe partitioning}{114}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Results summary}{114}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Discussion}{116}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Implications and consequences}{116}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}The occurrence rate of ocean planets}{116}{subsubsection.4.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.2}Consequences and corollaries of a temperature dependence of mantle water storage capacity}{117}{subsubsection.4.4.1.2}%
+\contentsline {paragraph}{Patterns in $T_p$ across planets}{117}{figure.caption.41}%
+\contentsline {paragraph}{Lower mantle water capacities in the past}{119}{figure.caption.41}%
+\contentsline {subsubsection}{\numberline {4.4.1.3}Deep water cycling, melting, and outgassing efficiency}{120}{subsubsection.4.4.1.3}%
+\contentsline {paragraph}{Mantle-melt density crossover}{120}{subsubsection.4.4.1.3}%
+\contentsline {paragraph}{A water saturation bottleneck}{120}{subsubsection.4.4.1.3}%
+\contentsline {subsection}{\numberline {4.4.2}Possibility of SiO$_2$-rich planets}{122}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Key experimental and theoretical data needs}{122}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Conclusions}{123}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Modulation of mantle oxygen fugacity by host star refractory abundances}{125}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{126}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Quantifying how oxidising a planet's mantle is}{126}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Mantle mineralogy and $f_{\ce {O2}}$}{128}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}This study's constraint on exoplanet mantle $f_{\ce {O2}}$}{129}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Methods}{130}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Phase equilibria and oxygen fugacity}{130}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}Absolute oxygen fugacity from chemical potentials}{131}{subsubsection.5.2.1.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.2}Relative oxygen fugacity using buffers}{131}{subsubsection.5.2.1.2}%
+\contentsline {subsection}{\numberline {5.2.2}Mantle bulk composition from stellar element abundances}{132}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Nominal ferric iron content}{133}{subsubsection.5.2.2.1}%
 \contentsline {subsubsection}{\numberline {5.2.2.2}Choice of oxide components}{133}{subsubsection.5.2.2.2}%
-\contentsline {section}{\numberline {5.3}Results}{133}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}The host minerals of ferric iron in planetary mantles}{133}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Compositional correlations of $f_{\ce {O2}}$}{136}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Minimum variability of $f_{\ce {O2}}$\tmspace +\thinmuskip {.1667em}across mantle compositions}{138}{subsection.5.3.3}%
-\contentsline {subsubsection}{\numberline {5.3.3.1}Relevance of the core mass fraction for upper mantle $f_{\ce {O2}}$}{139}{subsubsection.5.3.3.1}%
-\contentsline {section}{\numberline {5.4}Discussion}{140}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}The effect of mantle $f_{\ce {O2}}$\tmspace +\thinmuskip {.1667em}variability on volcanic gas chemistry}{140}{subsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.1.1}Other consequences of $f_{\ce {O2}}$\tmspace +\thinmuskip {.1667em}on mantle outgassing: mantle-melt partitioning and gas solubility}{143}{subsubsection.5.4.1.1}%
-\contentsline {subsection}{\numberline {5.4.2}Some reasons for planet-planet Fe$^{3+}/\Sigma $Fe\tmspace +\thickmuskip {.2777em}variability}{143}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}The underlying rocky planet Mg/Si distribution?}{144}{subsection.5.4.3}%
-\contentsline {subsubsection}{\numberline {5.4.3.1}Oxygen fugacity of silica-saturated mantles}{145}{subsubsection.5.4.3.1}%
-\contentsline {section}{\numberline {5.5}Conclusions}{145}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Concluding remarks}{147}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Summary}{147}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}On water and habitability}{148}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Outlook}{149}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Parameter uncertainty}{149}{subsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.1}High-precision abundance measurements of planet-hosting stars and white dwarfs}{149}{subsubsection.6.2.1.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.2}High-pressure mineral data}{149}{subsubsection.6.2.1.2}%
-\contentsline {subsubsection}{\numberline {6.2.1.3}The surface composition of Venus}{150}{subsubsection.6.2.1.3}%
-\contentsline {subsection}{\numberline {6.2.2}Model uncertainty}{150}{subsection.6.2.2}%
-\contentsline {chapter}{References}{153}{chapter*.50}%
-\contentsline {chapter}{Appendix \numberline {A}Spherical harmonic methods for topography}{193}{appendix.a.A}%
-\contentsline {chapter}{Appendix \numberline {B}Supplementary Tables and Figures}{199}{appendix.a.B}%
+\contentsline {section}{\numberline {5.3}Results}{135}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}The host minerals of ferric iron in planetary mantles}{135}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Compositional correlations of $f_{\ce {O2}}$}{138}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Minimum variability of $f_{\ce {O2}}$\,across mantle compositions}{139}{subsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.3.1}Relevance of the core mass fraction for upper mantle $f_{\ce {O2}}$}{141}{subsubsection.5.3.3.1}%
+\contentsline {section}{\numberline {5.4}Discussion}{142}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}The effect of mantle $f_{\ce {O2}}$\,variability on volcanic gas chemistry}{142}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}Other consequences of $f_{\ce {O2}}$\,on mantle outgassing: mantle-melt partitioning and gas solubility}{145}{subsubsection.5.4.1.1}%
+\contentsline {subsection}{\numberline {5.4.2}Some reasons for planet-planet Fe$^{3+}/\Sigma $Fe\tmspace +\thickmuskip {.2777em}variability}{145}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}The underlying rocky planet Mg/Si distribution?}{146}{subsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.3.1}Oxygen fugacity of silica-saturated mantles}{146}{subsubsection.5.4.3.1}%
+\contentsline {section}{\numberline {5.5}Conclusions}{147}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Concluding remarks}{149}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary}{149}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}On water and habitability}{150}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Outlook}{151}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Parameter uncertainty}{151}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}High-precision abundance measurements of planet-hosting stars and white dwarfs}{151}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}High-pressure mineral data}{151}{subsubsection.6.2.1.2}%
+\contentsline {subsubsection}{\numberline {6.2.1.3}The surface composition of Venus}{152}{subsubsection.6.2.1.3}%
+\contentsline {subsection}{\numberline {6.2.2}Model uncertainty}{152}{subsection.6.2.2}%
+\contentsline {chapter}{References}{155}{chapter*.50}%
+\contentsline {chapter}{Appendix \numberline {A}Spherical harmonic methods for topography}{195}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}Supplementary Tables and Figures}{201}{appendix.a.B}%
